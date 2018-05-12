@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3967
     wikipedia: http://en.wikipedia.org/wiki/Edison_Marshall
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24695#The-Snowshoe-Trail
 gutenberg_issued: '2008-02-26'
 gutenberg_type: Text
 identifiers:
